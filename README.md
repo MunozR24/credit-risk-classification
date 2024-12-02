@@ -1,5 +1,4 @@
 # credit-risk-classification
-# Loan Prediction Analysis
 
 ## Overview
 
